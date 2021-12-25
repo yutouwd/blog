@@ -33,6 +33,7 @@
     "meting": "^2.0.1",
     "pangu": "^4.0.7",
     "peer": "^0.2.10",
+    "shelljs": "^0.8.4",
     "valine": "^1.3.10"
   },
   "devDependencies": {
