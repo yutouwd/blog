@@ -70,6 +70,7 @@ index2_generator:
     - category leetcode # 不包含分类为leetcode的文章
     - tag 未完成
     - tag 数学笔记
+    - tag 不展示
 
 # Category & Tag
 default_category: uncategorized
